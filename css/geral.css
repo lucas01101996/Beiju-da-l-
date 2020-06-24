@@ -1,0 +1,23 @@
+.w3-bar{
+    text-align: center;
+}
+
+.my slides{
+    width: 100%;
+}
+
+section w3-container{
+    max-width: 600px;
+}
+
+article img{/* ainda nao consegui fazer */
+    width: 50%;
+}
+
+#cal{
+    width: 100%;
+}
+
+footer{
+    padding-top: 100px;
+}
